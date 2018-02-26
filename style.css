@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:500');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:300');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:500');
+
+body {
+	margin: 10;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	line-height: 1;
+	background-color:#EEE;
+}
+
+#title{
+  padding: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: 'Barlow Semi Condensed';
+  font-size: 40px;
+	color: #00b8c6;
+}
+
+#bio-container{
+	padding: 15px;
+	padding-top: 5px;
+	font-family: 'Work Sans';
+	font-weight: 300;
+	font-size: 1rem;
+	line-height: 130%;
+	color: #111;
+	width: 75%;
+	/*color: #d8366f;*/
+}
+
+.bio{
+	display: inline;
+}
