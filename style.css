@@ -34,6 +34,14 @@ body {
 	/*color: #d8366f;*/
 }
 
+.title{
+	font-family: 'Barlow Semi Condensed';
+	padding-bottom: 10px;
+	padding-top: 20px;
+	font-size: 25px;
+	color: #00b8c6;
+}
+
 .bio{
 	display: inline;
 }
