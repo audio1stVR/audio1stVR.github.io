@@ -26,6 +26,11 @@ body {
 	}
 }
 
+a{
+	text-decoration: none;
+	color: #111;
+}
+
 #title{
   padding: 15px;
   padding-top: 5px;
